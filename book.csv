@@ -1,0 +1,11 @@
+book_id,book_title,book_category,book_author,book_status,book_available_quantity,book_selling_price,book_import_price,book_publisher
+1,The Great Gatsby,Fiction,F. Scott Fitzgerald,available,12,150000,90000,Scribner
+2,To Kill a Mockingbird,Fiction,Harper Lee,available,8,180000,100000,J.B. Lippincott & Co.
+3,1984,Dystopian,George Orwell,unavailable,0,170000,95000,Secker & Warburg
+4,A Brief History of Time,Science,Stephen Hawking,available,5,200000,120000,Bantam Books
+5,The Art of War,Philosophy,Sun Tzu,available,10,120000,70000,Shambhala
+6,Clean Code,Programming,Robert C. Martin,available,7,250000,150000,Prentice Hall
+7,Harry Potter and the Sorcerer's Stone,Fantasy,J.K. Rowling,unavailable,0,220000,130000,Bloomsbury
+8,The Alchemist,Fiction,Paulo Coelho,available,15,140000,80000,HarperCollins
+9,Deep Learning,Technology,Ian Goodfellow,available,3,300000,200000,MIT Press
+10,Atomic Habits,Self-help,James Clear,available,9,210000,120000,Avery

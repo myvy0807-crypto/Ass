@@ -1,0 +1,6 @@
+book_id,book_name,customer_id,customer_name,date_time,total_amount
+1,The Great Gatsby,C001,Nguyen Thi Mai,2026-03-10 10:30:00,300000
+2,To Kill a Mockingbird,C002,Tran Van Binh,2026-03-10 11:00:00,180000
+1,The Great Gatsby,C003,Le Thi Hoa,2026-03-11 09:15:00,150000
+4,A Brief History of Time,C001,Nguyen Thi Mai,2026-03-12 14:20:00,200000
+6,Clean Code,C004,Pham Quang Huy,2026-03-12 16:45:00,250000
